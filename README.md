@@ -1,4 +1,3 @@
 ## SiliconXR
 
-## Description
-This is a Unity package for the SiliconXR project
+An XR based Digital Twin for semiconductor manufacturing workflows.

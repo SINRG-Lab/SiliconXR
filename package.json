@@ -1,8 +1,17 @@
 {
-  "name": "com.sinrg.siliconxr",
-  "version": "1.0.0",
+  "name": "org.sinrg.siliconxr",
+  "version": "0.0.1",
   "displayName": "SiliconXR",
+  "description": "An XR based Digital Twin for semiconductor manufacturing workflows.",
+  "unity": "2022.3",
+  "dependencies": {
+    "com.meta.xr.sdk.core": "71.0.0",
+    "com.meta.xr.sdk.interaction.ovr": "71.0.0"
+  },
+  "keywords": [],
   "author": {
-    "name": "SINR-G"
+    "name": "SINRG",
+    "email": "m.dasari@northeastern.edu",
+    "url": "https://sinrg.org/"
   }
 }
